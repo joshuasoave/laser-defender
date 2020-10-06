@@ -1,5 +1,7 @@
 # :rocket: Laser Defender :alien:
 
+[Aliens shooting at the player spaceship](https://i.imgur.com/UIm3HsD.png)
+
 ## :information_source: About:
 
 [Laser Defender](https://joshuasoave.itch.io/laser-defender) is a web based game in the style of classic space shooters. The object of the game is destory as many alien ships as possible before your health reaches 0. 
