@@ -1,6 +1,6 @@
 # :rocket: Laser Defender :alien:
 
-[Aliens shooting at the player spaceship](https://i.imgur.com/UIm3HsD.png)
+![Aliens shooting at the player spaceship](https://i.imgur.com/UIm3HsD.png)
 
 ## :information_source: About:
 
